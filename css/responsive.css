@@ -121,10 +121,15 @@
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (max-width: 768px) {
 
+.mobile-game {
+    padding: 120px;
+    color: black;
+}
 
 
-
-
+.erfeferf {
+    padding: 10px 0px;
+}
 
 .wetg.iery {
     height: 180px;
@@ -132,10 +137,23 @@
     margin: auto;
     width: 190px;
 }
+.mobile {
+    font-size: 45px;
+}
+.wefw {
+    font-size: 28px;
+}
 
-
-
-
+.amazing {
+    font-size: 28px;
+}
+.btn.get-strtd {
+    display: block;
+    margin: auto;
+}
+.euity {
+    padding-bottom: 30px;
+}
 
 
 
