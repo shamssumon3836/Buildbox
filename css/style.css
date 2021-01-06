@@ -255,7 +255,7 @@ footer {
 .bars {
   width: 45px;
   cursor: pointer;
-  margin: 6px 30px 0px 0px;
+  margin: 0px 0px 0px 0px;
 }
 .bars .line {
   fill: none;
@@ -288,3 +288,13 @@ footer {
 .ytfftc{
     padding: 0;
 } 
+.navbar-toggler.collapsed {
+    padding: 0px !important;
+    margin: 10px !important;
+}
+.navbar-toggler {
+    margin: 5px !important;
+}
+#navbarCollapse {
+    margin: -3px;
+}
