@@ -1,9 +1,11 @@
+#main{
+    overflow: hidden;
+}
 #slider-part {background-image: url("../images/Mobile_Header_v1.png");
     background-repeat: no-repeat;
     background-size: cover;
 height: 718px;
 }
-
 .wefw {
     font-size: 63px;
 }
@@ -31,7 +33,6 @@ height: 718px;
 .ery:hover {
     color: white;
 }
-
 /*--//=== Mobile ==//--*/
 .mobile {
     font-size: 75px;
@@ -102,7 +103,6 @@ height: 718px;
 .since {
   transition: transform .5s;
 }
-
 .since:hover {
     -webkit-border-radius: 16px 16px 16px 16px;
     transform: scale(1.1, 1.1);
@@ -176,7 +176,6 @@ height: 718px;
 .ueui{
     background-color: #fec847;
 }
-
 /*--//=== Ertst ==//--*/
 .ertst {
     font-size: 3.4rem;
@@ -187,7 +186,6 @@ height: 718px;
     background-color: #f3f6f7;
     padding: 42px 0px;
 }
-
 .ieyr .drg{
     color: #fff !important;
 }
@@ -218,7 +216,6 @@ height: 718px;
 #teamimg-up {
     padding: 0px;
 }
-
 /*--//=== Footer Top ==//--*/
 #footer-top {
     background-color: #252525;
@@ -246,21 +243,6 @@ footer {
     color: #ccc;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .trigger {
     position: absolute;
     z-index: 2;
@@ -270,7 +252,6 @@ footer {
     border-radius: 10px;
     transform: translateX(-50%) translateY(-50%);
 }
-
 .bars {
   width: 45px;
   cursor: pointer;
