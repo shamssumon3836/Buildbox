@@ -1,0 +1,115 @@
+/*--//=== Section ==//--*/
+section {
+    padding-top: 55px;
+    padding-bottom: 75px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family:Open Sans,sans-serif;
+}
+/*--//=== Nvtext ==//--*/
+.nvtext {
+    color: #A0A0A0;
+    font-size: 12px;
+}
+.nvtext:hover {
+    color: #fb8e35 !important;
+}
+/*--//=== Mobile Game ==//--*/
+.mobile-game {
+    padding: 161px;
+    color: black;
+}
+/*--//=== Dropdown Menu ==//--*/
+.dropdown-menu {
+    background-color: #1C1C1C;
+    border-radius: 0px;
+}
+/*--//=== Dropdown Item ==//--*/
+.dropdown-item {
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    padding: 10px 15px;
+}
+
+.dropdown-item.nvtext:hover {
+    background-color: #272727 !important;
+    color: #fb8e35 !important;
+}
+.border-none {
+    border: none;
+}
+/*--//=== Slider ==//--*/
+.irh {
+    width: 100%;
+    height: auto;
+}
+/*--//=== Since ==//--*/
+.since {
+    margin-bottom: 15px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 13px;
+}
+/*--//=== Uier ==//--*/
+.uier {
+    color: #fb8e35;
+}
+.uier:hover {
+    text-decoration: none;
+    color: #FFAF02;
+}
+/*--//=== Woierj ==//--*/
+.woierj {
+    font-weight: 300;
+    font-size: 18px;
+    color: #676767;
+    text-align: center;
+    margin: 0px;
+}
+/*--//=== Qert ==//--*/
+.qert {
+    font-size: 30px;
+    color: white;
+}
+/*--//=== Slfjk ==//--*/
+.slfjk:hover {
+    color: #fb8e35;
+}
+.slfjk {
+    color: #fb8e35;
+}
+/*--//=== Slfjk ==//--*/
+.sdfsd {
+    color: #676767;
+}
+/*--//=== Jihin ==//--*/
+.jihin {
+    font-size: 30px;
+    color: black;
+}
+/*--//=== Sfcwr ==//--*/
+.sfcwr {
+    opacity: 0.5 !important;
+}
+.sfcwr:hover {
+    opacity: 1 !important;
+}
+/*--//=== Wiurf ==//--*/
+.wiurf {
+    color: #ccc;
+    margin-bottom: 16px;
+}
+.wiurf:hover {
+    color: #fb8e35 !important;
+}
+.yuke {
+    border-bottom: 1px solid #444;
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="54" viewBox="0 0 43 54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Icon_Top_Notch.svg" class="cls-1" d="M564.2,5890H545a6.018,6.018,0,0,0-6,6v42a6.018,6.018,0,0,0,6,6h31a6.018,6.018,0,0,0,6-6v-30.2Zm15.385,17H565v-14.59Zm1.414,1.21V5938a5,5,0,0,1-5,5H545a5,5,0,0,1-5-5v-42a5,5,0,0,1,5-5h18.787l0.213,0.21V5908h16.786ZM555,5927l13-8-13-8v16Zm1-14.21,10.092,6.21L556,5925.21v-12.42Z" transform="translate(-539 -5890)"/>
+</svg>

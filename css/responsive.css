@@ -1,0 +1,142 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+#header-top {
+    height: 55px;
+}
+.navbar.navbar-expand-lg.py-4 {
+
+}
+
+.navbar-brand img {
+    width: 34%;
+    height: auto;
+    margin: 0px 51px 0px;
+}
+
+#navbarCollapse {
+    background-color: #1F1F1F;
+}
+.navbar.navbar-expand-lg.py-4 {
+    margin: -31px;
+}
+.sraerr {
+    padding: 0px 43px; 
+}
+
+.nvtext {
+    border-bottom: 1px dotted rgba(255,255,255,0.2);
+    padding: 20px 30px;
+        padding-right: 30px;
+        padding-left: 30px;
+}
+
+.mobile-game {
+    padding: 15px 50px;
+}
+.mobile {
+    font-size: 45px !important;
+    line-height: 30px !important;
+}
+.wefw {
+    font-size: 25px;
+    line-height: 21px;
+}
+.erfeferf {
+    font-size: 20px;
+    padding: 0px 14px;
+}
+#slider-part {
+    height: auto;
+    width: 100%;
+}
+.amazing {
+    font-size: 32px;
+}
+.dcefwtr {
+    width: 100%;
+    height: auto;
+}
+.hits {
+    padding: 0px 43px 50px;
+}
+.wetg.iery {
+    height: 190px;
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+.wrw {
+    padding-top: 30px;
+}
+.wiuery {
+    padding: 0px 60px;
+}
+.ertst {
+    font-size: 30px;
+}
+.uiey {
+    padding: 20px 70px;
+}
+.ieyr {
+    padding: 0px 70px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+}
+#own-game h2 {
+    padding: 0px 70px;
+}
+
+
+
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+
+
+
+
+
+.wetg.iery {
+    height: 190px;
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+
+
+
+
+
+
+
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+
+
+
+
+
+
+.wetg.iery {
+    height: 180px;
+    display: block;
+    margin: auto;
+    width: 190px;
+}
+
+
+
+
+
+
+
+}

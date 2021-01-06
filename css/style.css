@@ -1,0 +1,306 @@
+#slider-part {background-image: url("../images/Mobile_Header_v1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+height: 718px;
+}
+
+.wefw {
+    font-size: 63px;
+}
+/*--//=== Dropdown menu ==//--*/
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.dropdown-menu{
+    margin-top: 0;
+}
+/*--//=== Header-top ==//--*/
+#header-top {
+    background-color: #111619 !important;
+}
+/*--//=== Ery ==//--*/
+.ery {
+    margin-top: -8px;
+    background: linear-gradient(to right, #FF8042, #FAAE31);
+    color: white;
+    font-weight: 600;
+    font-size: 12.5px;
+    border-radius: 3px;
+    padding: 7px 28px;
+}
+.ery:hover {
+    color: white;
+}
+
+/*--//=== Mobile ==//--*/
+.mobile {
+    font-size: 75px;
+}
+.erfeferf {
+    padding: 10px 249px;
+}
+.power {
+    line-height: 36px;
+}
+/*--//=== Download Free ==//--*/
+.dnld-free {
+    padding: 14px;
+    color: white;
+    border-radius: 2px;
+    margin-top: 28px;
+    font-weight: 700;
+    width: 279px;
+    background: blue;
+    height: 60px;
+    font-size: 18px;
+}
+.dnld-free:hover {
+    color: white;
+}
+.amazing {
+    font-size: 3.8rem;
+    font-weight: 600;
+}
+/*--//=== Bgrnd Img ==//--*/
+.bgrnd-img {
+    background-repeat: no-repeat;
+    height: 801px;
+    transform: translate3d(0px, 33px, 0px) scale(1.005);
+    background-position: center center;
+}
+.dcefwtr {
+    width: 50%;
+    height: auto;
+}
+/*--//=== Euity ==//--*/
+.euity {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 2;
+    color: #444444;
+    width: 94%;
+    text-align: left;
+}
+/*--//=== Get-Strtd ==//--*/
+.get-strtd {
+    padding: 14px;
+    color: white;
+    border-radius: 2px;
+    margin-top: 28px;
+    font-weight: 700;
+    width: 279px;
+    background: #F77303 !important;
+    height: 60px;
+    font-size: 18px;
+}
+.get-strtd:hover {
+    color: white;
+    opacity: 0.85;
+    transition: all 0.45s cubic-bezier(0.25,1,0.33,1);
+}
+/*--//=== Since ==//--*/
+.since {
+  transition: transform .5s;
+}
+
+.since:hover {
+    -webkit-border-radius: 16px 16px 16px 16px;
+    transform: scale(1.1, 1.1);
+    transition-duration: 300ms;
+    transition-timing-function: ease-out;
+    border-radius: 13px;
+}
+/*--//=== Iery ==//--*/
+.iery{
+    border-style: solid;
+    background-color: transparent;
+    border-width: 1px;
+    margin-right: -10000px;
+    border-color: #FF8002;
+    border-radius: 8px;
+    position: relative;
+    width: 130px;
+    height: 123px;
+    padding-top: 33px;
+    border: 1px solid #fb8e35;
+    border-radius: 10px;
+    display: block;
+    color: #fb8e35;
+}
+/*--//=== Hits ==//--*/
+.hits {
+    font-size: 28px;
+    font-weight: 600;
+    margin: auto;
+    line-height: 1.3;
+    color: #000;
+    padding-bottom: 50px;
+}
+/*--//=== Wetg Iery ==//--*/
+.wetg.iery:hover {
+    text-decoration: none;
+    background-color: #FF8002;
+    color: white;
+}
+/*--//=== Arwerf ==//--*/
+.arwerf{
+    padding: 14px;
+    color: white;
+    border-radius: 2px;
+    margin-top: 28px;
+    font-weight: 700;
+    width: 279px;
+    background: #0688F2 !important;
+    height: 60px;
+    font-size: 18px;
+}
+.arwerf:hover {
+    color: white;
+}
+/*--//=== Top Features==//--*/
+#top-features {
+    background-size: auto;
+}
+/*--//=== Creation ==//--*/
+.creation {
+    font-size: 3.5rem;
+}
+/*--//=== Uierfy ==//--*/
+.uierfy {
+    padding: 0px;
+}
+/*--//=== Multiple Platforms ==//--*/
+#multiple-platforms {
+    padding: 0px;
+}
+.ueui{
+    background-color: #fec847;
+}
+
+/*--//=== Ertst ==//--*/
+.ertst {
+    font-size: 3.4rem;
+    font-weight: 600;
+    padding: 20px 0px;
+}
+.rferf {
+    background-color: #f3f6f7;
+    padding: 42px 0px;
+}
+
+.ieyr .drg{
+    color: #fff !important;
+}
+/*--//=== Get Bldbx Nw ==//--*/
+.get-bldbx-nw {
+    padding: 14px;
+    color: #066af2;
+    border-radius: 2px;
+    margin-top: 28px;
+    font-weight: 700;
+    width: 279px;
+    background: #FFF !important;
+    height: 60px;
+    font-size: 18px;
+    box-shadow: 0px 11px 16px rgba(27, 52, 84, 0.3);
+}
+.get-bldbx-nw:hover {
+    opacity: 0.85;
+    transition: all 0.45s cubic-bezier(0.25,1,0.33,1);
+    color: #066af2;
+
+}
+/*--//=== Own Game ==//--*/
+#own-game {
+    background-color: #066AF2 !important;
+}
+/*--//=== Teamimg Up ==//--*/
+#teamimg-up {
+    padding: 0px;
+}
+
+/*--//=== Footer Top ==//--*/
+#footer-top {
+    background-color: #252525;
+}
+.sfwf {
+    font-weight: 400;
+    font-size: 13px;
+    color: #cccccc82;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.sfawff {
+    color: #ccc;
+}
+footer {
+    background-color: #1c1c1c;
+    height: 70px;
+    color: #777;
+    padding-top: 24px;
+}
+.ertfw {
+    font-size: 12px;
+}
+.arfewe {
+    color: #ccc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.trigger {
+    position: absolute;
+    z-index: 2;
+    left: 50%;
+    top: 50%;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.bars {
+  width: 45px;
+  cursor: pointer;
+  margin: 6px 30px 0px 0px;
+}
+.bars .line {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 4;
+  stroke-linecap: square;
+  transition: stroke-dasharray 400ms,  stroke-dashoffset 400ms;
+}
+.bars .line.top {
+  stroke-dasharray: 40 172;
+}
+.bars .line.middle {
+  stroke-dasharray: 40 111;
+}
+.bars .line.bottom {
+  stroke-dasharray: 40 172;
+}
+.bars.active .top {
+  stroke-dashoffset: -132px;
+}
+.bars.active .middle {
+  stroke-dashoffset: -71px;
+}
+.bars.active .bottom {
+  stroke-dashoffset: -132px;
+}
+#main {
+    padding: 0px;
+}
