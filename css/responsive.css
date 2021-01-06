@@ -7,9 +7,12 @@
 .navbar.navbar-expand-lg.py-4 {
 
 }
-
+.mobile-game {
+    padding: 71px;
+    color: black;
+}
 .navbar-brand img {
-    width: 34%;
+    width: 44%;
     height: auto;
     margin: 0px 51px 0px;
 }
@@ -95,7 +98,33 @@
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 339px) {
 .navbar-brand img {
-    margin: 0px 23px;
+    margin: 0px 11px;
+}
+.mobile-game {
+    padding: 50px 0px 0px;
+    color: black;
+}
+.btn.get-strtd {
+    display: block;
+    margin: auto;
+}
+.our-vision {
+    padding: 0px !important;
+}
+.hits {
+    padding: 0px 30px 50px;
+}
+.wiuery {
+    padding: 0px 30px;
+}
+.uiey {
+    padding: 20px 30px;
+}
+.ieyr {
+    padding: 0px 30px;
+}
+section#top-features {
+    padding: 0px;
 }
 }
 /* Medium devices (landscape tablets, 768px and up) */
@@ -113,7 +142,10 @@
     width: 200px;
 }
 
-
+section#top-features {
+    padding: 0px;
+}
+}
 
 
 
@@ -156,7 +188,13 @@
 .euity {
     padding-bottom: 30px;
 }
-
-
+.mobile-game {
+    padding: 71px;
+    color: black;
+}
+section#top-features {
+    padding: 0px;
+}
+}
 
 }

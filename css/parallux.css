@@ -9,7 +9,8 @@
   /**
    * Default height
    */
-  height: 100%;
+  height: auto;
+  width: 100%;
 }
 
 .caption {
@@ -43,6 +44,6 @@
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
   .parallax {
-    background-attachment: scroll;
+    /*! background-attachment: scroll; */
   }
 }
